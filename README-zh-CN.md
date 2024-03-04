@@ -1,6 +1,6 @@
-[正體中文](README-zh-TW.md) | [简体中文](README-zh-CN.md)
+[正體中文](README-zh-TW.md) | [English](README.md)
 
-# Awesome Go
+# Awesome Go (简体中文版)
 
 <a href="https://awesome-go.com/"><img align="right" src="https://github.com/avelino/awesome-go/raw/main/tmpl/assets/logo.png" alt="awesome-go" title="awesome-go" /></a>
 
@@ -63,20 +63,20 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 ## Contents
 
 - [Awesome Go](#awesome-go)
-  - [Contents](#contents)
-  - [Artificial Intelligence](#artificial-intelligence)
-  - [Audio and Music](#audio-and-music)
-  - [Authentication and OAuth](#authentication-and-oauth)
-  - [Blockchain](#blockchain)
-  - [Bot Building](#bot-building)
-  - [Build Automation](#build-automation)
+  - [目录](#contents)
+  - [人工智能(AI)](#artificial-intelligence)
+  - [音频](#audio-and-music)
+  - [身份认证](#authentication-and-oauth)
+  - [区块链](#blockchain)
+  - [Bot 项目](#bot-building)
+  - [自动化构建](#build-automation)
   - [Command Line](#command-line)
-    - [Advanced Console UIs](#advanced-console-uis)
-    - [Standard CLI](#standard-cli)
-  - [Configuration](#configuration)
-  - [Continuous Integration](#continuous-integration)
-  - [CSS Preprocessors](#css-preprocessors)
-  - [Data Structures and Algorithms](#data-structures-and-algorithms)
+    - [终端用户界面](#advanced-console-uis)
+    - [命令行界面(CLI)](#standard-cli)
+  - [配置](#configuration)
+  - [持续集成](#continuous-integration)
+  - [CSS 预处理器](#css-preprocessors)
+  - [数据结构和算法](#data-structures-and-algorithms)
     - [Bit-packing and Compression](#bit-packing-and-compression)
     - [Bit Sets](#bit-sets)
     - [Bloom and Cuckoo Filters](#bloom-and-cuckoo-filters)

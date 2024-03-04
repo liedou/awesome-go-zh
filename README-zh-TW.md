@@ -1,6 +1,6 @@
-[正體中文](README-zh-TW.md) | [简体中文](README-zh-CN.md)
+[简体中文](README-zh-CN.md) | [English](README.md)
 
-# Awesome Go
+# Awesome Go (正體中文版)
 
 <a href="https://awesome-go.com/"><img align="right" src="https://github.com/avelino/awesome-go/raw/main/tmpl/assets/logo.png" alt="awesome-go" title="awesome-go" /></a>
 
@@ -63,20 +63,20 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 ## Contents
 
 - [Awesome Go](#awesome-go)
-  - [Contents](#contents)
-  - [Artificial Intelligence](#artificial-intelligence)
-  - [Audio and Music](#audio-and-music)
-  - [Authentication and OAuth](#authentication-and-oauth)
-  - [Blockchain](#blockchain)
-  - [Bot Building](#bot-building)
-  - [Build Automation](#build-automation)
-  - [Command Line](#command-line)
-    - [Advanced Console UIs](#advanced-console-uis)
-    - [Standard CLI](#standard-cli)
-  - [Configuration](#configuration)
-  - [Continuous Integration](#continuous-integration)
-  - [CSS Preprocessors](#css-preprocessors)
-  - [Data Structures and Algorithms](#data-structures-and-algorithms)
+  - [目錄](#contents)
+  - [人工智慧](#artificial-intelligence)
+  - [音訊](#audio-and-music)
+  - [身分驗證](#authentication-and-oauth)
+  - [區塊鏈](#blockchain)
+  - [Bot 專案](#bot-building)
+  - [組建自動化](#build-automation)
+  - [命令列](#command-line)
+    - [控制臺使用者介面](#advanced-console-uis)
+    - [命令列介面](#standard-cli)
+  - [配置](#configuration)
+  - [持續整合](#continuous-integration)
+  - [CSS 預處理器](#css-preprocessors)
+  - [資料結構與演算法](#data-structures-and-algorithms)
     - [Bit-packing and Compression](#bit-packing-and-compression)
     - [Bit Sets](#bit-sets)
     - [Bloom and Cuckoo Filters](#bloom-and-cuckoo-filters)
