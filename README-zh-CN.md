@@ -22,7 +22,7 @@
   - [区块链](#blockchain)
   - [Bot 项目](#bot-building)
   - [自动化构建](#build-automation)
-  - [Command Line](#command-line)
+  - [命令行](#command-line)
     - [终端用户界面](#advanced-console-uis)
     - [命令行界面(CLI)](#standard-cli)
   - [配置](#configuration)
