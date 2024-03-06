@@ -14,10 +14,10 @@
 
 ## 目录
 
-- [Awesome Go](#awesome-go)
+- [Awesome Go (简体中文版)](#Awesome-Go-(简体中文版))
   - [目录](#目录)
   - [人工智能](#人工智能)
-  - [音频](#audio-and-music)
+  - [音频处理](#音频处理)
   - [身份认证](#authentication-and-oauth)
   - [区块链](#blockchain)
   - [Bot 项目](#bot-building)
@@ -159,25 +159,25 @@
 
 _人工智能相关库_
 
-- [langchaingo](https://github.com/tmc/langchaingo) - LangChainGo 是一个用语言模型开发程序的框架.
-- [LocalAI](https://github.com/mudler/LocalAI) - OpenAI 的开源替代品, 可托管AI模型.
-- [Ollama](https://github.com/jmorganca/ollama) - 可在本地运行大语言模型.
+- [langchaingo](https://github.com/tmc/langchaingo) - LangChainGo 是一个用于开发语言模型程序的框架。
+- [LocalAI](https://github.com/mudler/LocalAI) - OpenAI 的开源替代品，可托管 AI 模型。
+- [Ollama](https://github.com/jmorganca/ollama) - 可在本地运行大语言模型。
 
 **[⬆ 返回顶部](#目录)**
 
-## Audio and Music
+## 音频处理
 
-_Libraries for manipulating audio._
+_操作音频文件的库_
 
-- [flac](https://github.com/mewkiz/flac) - Native Go FLAC encoder/decoder with support for FLAC streams.
-- [gaad](https://github.com/Comcast/gaad) - Native Go AAC bitstream parser.
-- [GoAudio](https://github.com/DylanMeeus/GoAudio) - Native Go Audio Processing Library.
-- [gosamplerate](https://github.com/dh1tw/gosamplerate) - libsamplerate bindings for go.
-- [id3v2](https://github.com/bogem/id3v2) - ID3 decoding and encoding library for Go.
-- [malgo](https://github.com/gen2brain/malgo) - Mini audio library.
-- [minimp3](https://github.com/tosone/minimp3) - Lightweight MP3 decoder library.
-- [Oto](https://github.com/hajimehoshi/oto) - A low-level library to play sound on multiple platforms.
-- [PortAudio](https://github.com/gordonklaus/portaudio) - Go bindings for the PortAudio audio I/O library.
+- [flac](https://github.com/mewkiz/flac) - 提供 Go 原生支持的 FLAC 串流编解码器。
+- [gaad](https://github.com/Comcast/gaad) - 提供 Go 原生支持的 AAC 比特流解析器。
+- [GoAudio](https://github.com/DylanMeeus/GoAudio) - 一个 Go 原生支持的音频处理库。
+- [gosamplerate](https://github.com/dh1tw/gosamplerate) - libsamplerate 库的 Go 实现。
+- [id3v2](https://github.com/bogem/id3v2) - 一个 ID3 的编解码库。
+- [malgo](https://github.com/gen2brain/malgo) - 一个小型的音频库。
+- [minimp3](https://github.com/tosone/minimp3) - 一个轻量级的 MP3 解码库。
+- [Oto](https://github.com/hajimehoshi/oto) - 一个跨平台播放音乐的库。
+- [PortAudio](https://github.com/gordonklaus/portaudio) - PortAudio 音频库的 Go 实现.
 
 **[⬆ 返回顶部](#目录)**
 
