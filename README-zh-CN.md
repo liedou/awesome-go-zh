@@ -15,8 +15,8 @@
 ## 目录
 
 - [Awesome Go](#awesome-go)
-  - [目录](#contents)
-  - [人工智能(AI)](#artificial-intelligence)
+  - [目录](#目录)
+  - [人工智能](#人工智能)
   - [音频](#audio-and-music)
   - [身份认证](#authentication-and-oauth)
   - [区块链](#blockchain)
@@ -153,17 +153,17 @@
     - [Tutorials](#tutorials)
     - [Guided Learning](#guided-learning)
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
-## Artificial Intelligence
+## 人工智能
 
-_Libraries for building programs that leverage AI._
+_人工智能相关库_
 
-- [langchaingo](https://github.com/tmc/langchaingo) - LangChainGo is a framework for developing applications powered by language models.
-- [LocalAI](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative, self-host AI models.
-- [Ollama](https://github.com/jmorganca/ollama) - Run large language models locally.
+- [langchaingo](https://github.com/tmc/langchaingo) - LangChainGo 是一个用语言模型开发程序的框架.
+- [LocalAI](https://github.com/mudler/LocalAI) - OpenAI 的开源替代品, 可托管AI模型.
+- [Ollama](https://github.com/jmorganca/ollama) - 可在本地运行大语言模型.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Audio and Music
 
@@ -179,7 +179,7 @@ _Libraries for manipulating audio._
 - [Oto](https://github.com/hajimehoshi/oto) - A low-level library to play sound on multiple platforms.
 - [PortAudio](https://github.com/gordonklaus/portaudio) - Go bindings for the PortAudio audio I/O library.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Authentication and OAuth
 
@@ -217,7 +217,7 @@ _Libraries for implementing authentication schemes._
 - [sessionup](https://github.com/swithek/sessionup) - Simple, yet effective HTTP session management and identification package.
 - [sjwt](https://github.com/brianvoe/sjwt) - Simple jwt generator and parser.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Blockchain
 
@@ -232,7 +232,7 @@ _Tools for building blockchains._
 - [solana-go](https://github.com/gagliardetto/solana-go) - Go library to interface with Solana JSON RPC and WebSocket interfaces.
 - [tendermint](https://github.com/tendermint/tendermint) - High-performance middleware for transforming a state machine written in any programming language into a Byzantine Fault Tolerant replicated state machine using the Tendermint consensus and blockchain protocols.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Bot Building
 
@@ -266,7 +266,7 @@ _Libraries for building and working with bots._
 - [Tenyks](https://github.com/kyleterry/tenyks) - Service oriented IRC bot using Redis and JSON for messaging.
 - [wayback](https://github.com/wabarc/wayback) - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Build Automation
 
@@ -285,7 +285,7 @@ _Libraries and tools help with build automation._
 - [taskctl](https://github.com/taskctl/taskctl) - Concurrent task runner.
 - [xc](https://github.com/joerdav/xc) - Task runner with README.md defined tasks, executable markdown.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Command Line
 
@@ -333,7 +333,7 @@ _Libraries for building Console Applications and Console User Interfaces._
 - [uitable](https://github.com/gosuri/uitable) - Library to improve readability in terminal apps using tabular data.
 - [yacspin](https://github.com/theckman/yacspin) - Yet Another CLi Spinner package, for working with terminal spinners.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ### Standard CLI
 
@@ -389,7 +389,7 @@ _Libraries for building standard or basic Command Line applications._
 - [wlog](https://github.com/dixonwille/wlog) - Simple logging interface that supports cross-platform color and concurrency.
 - [wmenu](https://github.com/dixonwille/wmenu) - Easy to use menu structure for cli applications that prompt users to make choices.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Configuration
 
@@ -451,7 +451,7 @@ _Libraries for configuration parsing._
 - [xdg](https://github.com/adrg/xdg) - Go implementation of the [XDG Base Directory Specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html) and [XDG user directories](https://wiki.archlinux.org/index.php/XDG_user_directories).
 - [xdg](https://github.com/OpenPeeDeeP/xdg) - Cross platform package that follows the [XDG Standard](https://standards.freedesktop.org/basedir-spec/basedir-spec-latest.html).
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Continuous Integration
 
@@ -470,7 +470,7 @@ _Tools for help with continuous integration._
 - [roveralls](https://github.com/LawrenceWoodman/roveralls) - Recursive coverage testing tool.
 - [woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## CSS Preprocessors
 
@@ -479,7 +479,7 @@ _Libraries for preprocessing CSS files._
 - [gcss](https://github.com/yosssi/gcss) - Pure Go CSS Preprocessor.
 - [go-libsass](https://github.com/wellington/go-libsass) - Go wrapper to the 100% Sass compatible libsass project.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Data Structures and Algorithms
 
@@ -601,7 +601,7 @@ additional ordered map implementations.
 - [parapipe](https://github.com/nazar256/parapipe) - FIFO Pipeline which parallels execution on each stage while maintaining the order of messages and results.
 - [pipeline](https://github.com/hyfather/pipeline) - An implementation of pipelines with fan-in and fan-out.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Database
 
@@ -757,7 +757,7 @@ _Libraries for building and using SQL._
 - [Squirrel](https://github.com/Masterminds/squirrel) - Go library that helps you build SQL queries.
 - [xo](https://github.com/knq/xo) - Generate idiomatic Go code for databases based on existing schema definitions or custom queries supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Database Drivers
 
@@ -832,7 +832,7 @@ _Libraries for building and using SQL._
 - [goes](https://github.com/OwnLocal/goes) - Library to interact with Elasticsearch.
 - [skizze](https://github.com/seiflotfy/skizze) - probabilistic data-structures service and storage.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Date and Time
 
@@ -862,7 +862,7 @@ _Libraries for working with dates and times._
 - [timeutil](https://github.com/leekchan/timeutil) - Useful extensions (Timedelta, Strftime, ...) to the golang's time package.
 - [tuesday](https://github.com/osteele/tuesday) - Ruby-compatible Strftime function.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Distributed Systems
 
@@ -926,7 +926,7 @@ _Packages that help with building Distributed Systems._
 - [torrent](https://github.com/anacrolix/torrent) - BitTorrent client package.
 - [trpc-go](https://github.com/trpc-group/trpc-go) - The Go language implementation of tRPC, which is a pluggable, high-performance RPC framework.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Dynamic DNS
 
@@ -936,7 +936,7 @@ _Tools for updating dynamic DNS records._
 - [dyndns](https://gitlab.com/alcastle/dyndns) - Background Go process to regularly and automatically check your IP Address and make updates to (one or many) Dynamic DNS records for Google domains whenever your address changes.
 - [GoDNS](https://github.com/timothyye/godns) - A dynamic DNS client tool, supports DNSPod & HE.net, written in Go.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Email
 
@@ -967,7 +967,7 @@ _Libraries and tools that implement email creation and sending._
 - [smtpmock](https://github.com/mocktools/go-smtp-mock) - Lightweight configurable multithreaded fake SMTP server. Mimic any SMTP behaviour for your test environment.
 - [truemail-go](https://github.com/truemail-rb/truemail-go) - Configurable Golang email validator/verifier. Verify email via Regex, DNS, SMTP and even more.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Embeddable Scripting Languages
 
@@ -995,7 +995,7 @@ _Embedding other languages inside your go code._
 - [starlark-go](https://github.com/google/starlark-go) - Go implementation of Starlark: Python-like language with deterministic evaluation and hermetic execution.
 - [tengo](https://github.com/d5/tengo) - Bytecode compiled script language for Go.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Error Handling
 
@@ -1018,7 +1018,7 @@ _Libraries for handling errors._
 - [oops](https://github.com/samber/oops) - Error handling with context, stack trace and source fragments.
 - [tracerr](https://github.com/ztrue/tracerr) - Golang errors with stack trace and source fragments.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## File Handling
 
@@ -1050,7 +1050,7 @@ _Libraries for handling files and file systems._
 - [todotxt](https://github.com/1set/todotxt) - Go library for Gina Trapani's [_todo.txt_](http://todotxt.org/) files, supports parsing and manipulating of task lists in the [_todo.txt_ format](https://github.com/todotxt/todo.txt).
 - [vfs](https://github.com/C2FO/vfs) - A pluggable, extensible, and opinionated set of filesystem functionality for Go across a number of filesystem types such as os, S3, and GCS.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Financial
 
@@ -1081,7 +1081,7 @@ _Packages for accounting and finance._
 - [transaction](https://github.com/claygod/transaction) - Embedded transactional database of accounts, running in multithreaded mode.
 - [vat](https://github.com/dannyvankooten/vat) - VAT number validation & EU VAT rates.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Forms
 
@@ -1101,7 +1101,7 @@ _Libraries for working with forms._
 - [qs](https://github.com/sonh/qs) - Go module for encoding structs into URL query parameters.
 - [queryparam](https://github.com/tomwright/queryparam) - Decode `url.Values` into usable struct values of standard or custom types.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Functional
 
@@ -1117,7 +1117,7 @@ _Packages to support functional programming in Go._
 - [underscore](https://github.com/rjNemo/underscore) - Functional programming helpers for Go 1.18 and beyond.
 - [valor](https://github.com/phelmkamp/valor) - Generic option and result types that optionally contain a value.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Game Development
 
@@ -1144,7 +1144,7 @@ _Awesome game development libraries._
 - [termloop](https://github.com/JoelOtter/termloop) - Terminal-based game engine for Go, built on top of Termbox.
 - [tile](https://github.com/kelindar/tile) - Data-oriented and cache-friendly 2D Grid library (TileMap), includes pathfinding, observers and import/export.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Generators
 
@@ -1164,7 +1164,7 @@ _Tools that generate Go code._
 - [oapi-codegen](https://github.com/deepmap/oapi-codegen) - This package contains a set of utilities for generating Go boilerplate code for services based on OpenAPI 3.0 API definitions.
 - [typeregistry](https://github.com/xiaoxin01/typeregistry) - A library to create type dynamically.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Geographic
 
@@ -1186,7 +1186,7 @@ _Geographic tools and servers_
 - [Web-Mercator-Projection](https://github.com/jorelosorio/web-mercator-projection) A project to easily use and convert LonLat, Point and Tile to display info, markers, etc, in a map using the Web Mercator Projection.
 - [WGS84](https://github.com/wroge/wgs84) - Library for Coordinate Conversion and Transformation (ETRS89, OSGB36, NAD83, RGF93, Web Mercator, UTM).
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Go Compilers
 
@@ -1199,7 +1199,7 @@ _Tools for compiling Go to other languages._
 - [gopherjs](https://github.com/gopherjs/gopherjs) - Compiler from Go to JavaScript.
 - [tardisgo](https://github.com/tardisgo/tardisgo) - Golang to Haxe to CPP/CSharp/Java/JavaScript transpiler.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Goroutines
 
@@ -1255,7 +1255,7 @@ _Tools for managing and working with Goroutines._
 - [worker-pool](https://github.com/vardius/worker-pool) - goworker is a Go simple async worker pool.
 - [workerpool](https://github.com/gammazero/workerpool) - Goroutine pool that limits the concurrency of task execution, not the number of tasks queued.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## GUI
 
@@ -1291,7 +1291,7 @@ _Interaction_
 - [trayhost](https://github.com/shurcooL/trayhost) - Cross-platform Go library to place an icon in the host operating system's taskbar.
 - [zenity](https://github.com/ncruces/zenity) - Cross-platform Go library and CLI to create simple dialogs that interact graphically with the user.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Hardware
 
@@ -1306,7 +1306,7 @@ _Libraries, tools, and tutorials for interacting with hardware._
 - [joystick](https://github.com/0xcafed00d/joystick) - a polled API to read the state of an attached joystick.
 - [sysinfo](https://github.com/zcalusic/sysinfo) - A pure Go library providing Linux OS / kernel / hardware system information.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Images
 
@@ -1356,7 +1356,7 @@ _Libraries for manipulating images._
 - [transformimgs](https://github.com/Pixboost/transformimgs) - Transformimgs resizes and optimises images for Web using next-generation formats.
 - [webp-server](https://github.com/mehdipourfar/webp-server) - Simple and minimal image server capable of storing, resizing, converting and caching images.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## IoT (Internet of Things)
 
@@ -1375,7 +1375,7 @@ _Libraries for programming devices of the IoT._
 - [periph](https://periph.io/) - Peripherals I/O to interface with low-level board facilities.
 - [sensorbee](https://github.com/sensorbee/sensorbee) - Lightweight stream processing engine for IoT.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Job Scheduler
 
@@ -1400,7 +1400,7 @@ _Libraries for scheduling jobs._
 - [scheduler](https://github.com/carlescere/scheduler) - Cronjobs scheduling made easy.
 - [tasks](https://github.com/madflojo/tasks) - An easy to use in-process scheduler for recurring tasks in Go.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## JSON
 
@@ -1446,7 +1446,7 @@ _Libraries for working with JSON._
 - [ujson](https://github.com/olvrng/ujson) - Fast and minimal JSON parser and transformer that works on unstructured JSON.
 - [vjson](https://github.com/miladibra10/vjson) - Go package for validating JSON objects with declaring a JSON schema with fluent API.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Logging
 
@@ -1516,7 +1516,7 @@ _Libraries for generating and working with log files._
 - [zkits-logger](https://github.com/edoger/zkits-logger) - A powerful zero-dependency JSON logger.
 - [zl](https://github.com/nkmr-jp/zl) - High Developer Experience, zap based logger. It offers rich functionality but is easy to configure.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Machine Learning
 
@@ -1561,7 +1561,7 @@ _Libraries for Machine Learning._
 - [tfgo](https://github.com/galeone/tfgo) - Easy to use Tensorflow bindings: simplifies the usage of the official Tensorflow Go bindings. Define computational graphs in Go, load and execute models trained in Python.
 - [Varis](https://github.com/Xamber/Varis) - Golang Neural Network.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Messaging
 
@@ -1622,7 +1622,7 @@ _Libraries that implement messaging systems._
 - [Watermill](https://github.com/ThreeDotsLabs/watermill) - Working efficiently with message streams. Building event driven applications, enabling event sourcing, RPC over messages, sagas. Can use conventional pub/sub implementations like Kafka or RabbitMQ, but also HTTP or MySQL binlog.
 - [zmq4](https://github.com/pebbe/zmq4) - Go interface to ZeroMQ version 4. Also available for [version 3](https://github.com/pebbe/zmq3) and [version 2](https://github.com/pebbe/zmq2).
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Microsoft Office
 
@@ -1639,7 +1639,7 @@ _Libraries for working with Microsoft Excel._
 - [xlsx](https://github.com/tealeg/xlsx) - Library to simplify reading the XML format used by recent version of Microsoft Excel in Go programs.
 - [xlsx](https://github.com/plandem/xlsx) - Fast and safe way to read/update your existing Microsoft Excel files in Go programs.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Miscellaneous
 
@@ -1669,7 +1669,7 @@ _Libraries for working with dependency injection._
 - [ore](https://github.com/firasdarwish/ore) - Lightweight, generic & simple dependency injection (DI) container.
 - [wire](https://github.com/Fs02/wire) - Strict Runtime Dependency Injection for Golang.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ### Project Layout
 
@@ -1691,7 +1691,7 @@ _**Unofficial** set of patterns for structuring projects._
 - [scaffold](https://github.com/catchplay/scaffold) - Scaffold generates a starter Go project layout. Lets you focus on business logic implemented.
 - [wangyoucao577/go-project-layout](https://github.com/wangyoucao577/go-project-layout) - Set of practices and discussions on how to structure Go project layout.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ### Strings
 
@@ -1705,7 +1705,7 @@ _Libraries for working with strings._
 - [sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string.
 - [xstrings](https://github.com/huandu/xstrings) - Collection of useful string functions ported from other languages.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ### Uncategorized
 
@@ -1771,7 +1771,7 @@ _These libraries were placed here because none of the other categories seemed to
 - [xkg](https://github.com/go-xkg/xkg) - X Keyboard Grabber.
 - [xz](https://github.com/ulikunitz/xz) - Pure golang package for reading and writing xz-compressed files.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Natural Language Processing
 
@@ -1845,7 +1845,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 - [gounidecode](https://github.com/fiam/gounidecode) - Unicode transliterator (also known as unidecode) for Go.
 - [transliterator](https://github.com/alexsergivan/transliterator) - Provides one-way string transliteration with supporting of language-specific transliteration rules.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Networking
 
@@ -1922,7 +1922,7 @@ _Libraries for working with various layers of the network._
 - [winrm](https://github.com/masterzen/winrm) - Go WinRM client to remotely execute commands on Windows machines.
 - [xtcp](https://github.com/xfxdev/xtcp) - TCP Server Framework with simultaneous full duplex communication, graceful shutdown, and custom protocol.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ### HTTP Clients
 
@@ -1947,7 +1947,7 @@ _Libraries for making HTTP requests._
 - [rq](https://github.com/ddo/rq) - A nicer interface for golang stdlib HTTP client.
 - [sling](https://github.com/dghubble/sling) - Sling is a Go HTTP client library for creating and sending API requests.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## OpenGL
 
@@ -1960,7 +1960,7 @@ _Libraries for using OpenGL in Go._
 - [goxjs/glfw](https://github.com/goxjs/glfw) - Go cross-platform glfw library for creating an OpenGL context and receiving events.
 - [mathgl](https://github.com/go-gl/mathgl) - Pure Go math package specialized for 3D math, with inspiration from GLM.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## ORM
 
@@ -1991,7 +1991,7 @@ _Libraries that implement Object-Relational Mapping or datamapping techniques._
 - [XORM](https://gitea.com/xorm/xorm) - Simple and powerful ORM for Go. (Support: MySQL, MyMysql, PostgreSQL, Tidb, SQLite3, MsSql and Oracle).
 - [Zoom](https://github.com/albrow/zoom) - Blazing-fast datastore and querying engine built on Redis.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Package Management
 
@@ -2021,7 +2021,7 @@ _Unofficial libraries for package and dependency management._
 - [nut](https://github.com/jingweno/nut) - Vendor Go dependencies.
 - [VenGO](https://github.com/DamnWidget/VenGO) - create and manage exportable isolated go virtual environments.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Performance
 
@@ -2032,7 +2032,7 @@ _Unofficial libraries for package and dependency management._
 - [statsviz](https://github.com/arl/statsviz) - Live visualization of your Go application runtime statistics.
 - [tracer](https://github.com/kamilsk/tracer) - Simple, lightweight tracing.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Query Language
 
@@ -2054,7 +2054,7 @@ _Unofficial libraries for package and dependency management._
 - [rqp](https://github.com/timsolov/rest-query-parser) - Query Parser for REST API. Filtering, validations, both `AND`, `OR` operations are supported directly in the query.
 - [straf](https://github.com/SonicRoshan/straf) - Easily Convert Golang structs to GraphQL objects.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Resource Embedding
 
@@ -2071,7 +2071,7 @@ _Unofficial libraries for package and dependency management._
 - [templify](https://github.com/wlbr/templify) - Embed external template files into Go code to create single file binaries.
 - [vfsgen](https://github.com/shurcooL/vfsgen) - Generates a vfsdata.go file that statically implements the given virtual filesystem.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Science and Data Analysis
 
@@ -2112,7 +2112,7 @@ _Libraries for scientific computing and data analyzing._
 - [TextRank](https://github.com/DavidBelicza/TextRank) - TextRank implementation in Golang with extendable features (summarization, weighting, phrase extraction) and multithreading (goroutine) support.
 - [triangolatte](https://github.com/tchayen/triangolatte) - 2D triangulation library. Allows translating lines and polygons (both based on points) to the language of GPUs.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Security
 
@@ -2157,7 +2157,7 @@ _Libraries that are used to help make your application more secure._
 - [teler-waf](https://github.com/kitabisa/teler-waf) - teler-waf is a Go HTTP middleware that provide teler IDS functionality to protect against web-based attacks and improve the security of Go-based web applications. It is highly configurable and easy to integrate into existing Go applications.
 - [themis](https://github.com/cossacklabs/themis) - high-level cryptographic library for solving typical data security tasks (secure data storage, secure messaging, zero-knowledge proof authentication), available for 14 languages, best fit for multi-platform apps.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Serialization
 
@@ -2186,7 +2186,7 @@ _Libraries and tools for binary serialization._
 - [structomap](https://github.com/tuvistavie/structomap) - Library to easily and dynamically generate maps from static structures.
 - [unitpacking](https://github.com/recolude/unitpacking) - Library to pack unit vectors into as fewest bytes as possible.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Server Applications
 
@@ -2221,7 +2221,7 @@ _Libraries and tools for binary serialization._
 - [Trickster](https://github.com/tricksterproxy/trickster) - HTTP reverse proxy cache and time series accelerator.
 - [Wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that!
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Stream Processing
 
@@ -2232,7 +2232,7 @@ _Libraries and tools for stream processing and reactive programming._
 - [machine](https://github.com/whitaker-io/machine) - Go library for writing and generating stream workers with built in metrics and traceability.
 - [stream](https://github.com/youthlin/stream) - Go Stream, like Java 8 Stream: Filter/Map/FlatMap/Peek/Sorted/ForEach/Reduce...
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Template Engines
 
@@ -2257,7 +2257,7 @@ _Libraries and tools for templating and lexing._
 - [tbd](https://github.com/lucasepe/tbd) - A really simple way to create text templates with placeholders - exposes extra builtin Git repo metadata.
 - [templ](https://github.com/a-h/templ) - A HTML templating language that has great developer tooling.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Testing
 
@@ -2366,7 +2366,7 @@ _Libraries for testing codebases and generating test data._
 - Fail injection
   - [failpoint](https://github.com/pingcap/failpoint) - An implementation of [failpoints](https://www.freebsd.org/cgi/man.cgi?query=fail) for Golang.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Text Processing
 
@@ -2464,7 +2464,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 - [radix](https://github.com/yourbasic/radix) - Fast string sorting algorithm.
 - [TySug](https://github.com/Dynom/TySug) - Alternative suggestions with respect to keyboard layouts.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Third-party APIs
 
@@ -2576,7 +2576,7 @@ _Libraries for accessing third party APIs._
 - [ynab](https://github.com/brunomvsouza/ynab.go) - Go wrapper for the YNAB API.
 - [zooz](https://github.com/gojuno/go-zooz) - Go client for the Zooz API.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Utilities
 
@@ -2758,7 +2758,7 @@ _General utilities and tools to make your life easier._
 - [xferspdy](https://github.com/monmohan/xferspdy) - Xferspdy provides binary diff and patch library in golang.
 - [yogo](https://github.com/antham/yogo) - Check yopmail mails from command line.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## UUID
 
@@ -2776,7 +2776,7 @@ _Libraries for working with UUIDs._
 - [wuid](https://github.com/edwingeng/wuid) - An extremely fast globally unique number generator.
 - [xid](https://github.com/rs/xid) - Xid is a globally unique id generator library, ready to be safely used directly in your server code.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Validation
 
@@ -2795,7 +2795,7 @@ _Libraries for validation._
 - [Validator](https://github.com/go-the-way/validator) - A lightweight model validator written in Go.Contains VFs:Min, Max, MinLength, MaxLength, Length, Enum, Regex.
 - [valix](https://github.com/marrow16/valix) Go package for validating requests
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Version Control
 
@@ -2811,7 +2811,7 @@ _Libraries for version control._
 - [hercules](https://github.com/src-d/hercules) - gaining advanced insights from Git repository history.
 - [hgo](https://github.com/beyang/hgo) - Hgo is a collection of Go packages providing read-access to local Mercurial repositories.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Video
 
@@ -2830,7 +2830,7 @@ _Libraries for manipulating video._
 - [m3u8](https://github.com/grafov/m3u8) - Parser and generator library of M3U8 playlists for Apple HLS.
 - [v4l](https://github.com/korandiz/v4l) - Video capture library for Linux, written in Go.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Web Frameworks
 
@@ -2896,7 +2896,7 @@ _Full stack web frameworks._
 - [YARF](https://github.com/yarf-framework/yarf) - Fast micro-framework designed to build REST APIs and web services in a fast and simple way.
 - [Yokai](https://github.com/ankorstore/yokai) - Simple, modular, and observable Go framework for backend applications.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ### Middlewares
 
@@ -2931,7 +2931,7 @@ _Full stack web frameworks._
 - [rye](https://github.com/InVisionApp/rye) - Tiny Go middleware library (with canned Middlewares) that supports JWT, CORS, Statsd, and Go 1.7 context.
 - [stats](https://github.com/thoas/stats) - Go middleware that stores various information about your web application.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ### Routers
 
@@ -2963,7 +2963,7 @@ _Full stack web frameworks._
 - [xmux](https://github.com/rs/xmux) - High performance muxer based on `httprouter` with `net/context` support.
 - [xujiajun/gorouter](https://github.com/xujiajun/gorouter) - A simple and fast HTTP router for Go.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## WebAssembly
 
@@ -2974,7 +2974,7 @@ _Full stack web frameworks._
 - [wasmbrowsertest](https://github.com/agnivade/wasmbrowsertest) - Run Go WASM tests in your browser.
 - [webapi](https://github.com/gowebapi/webapi) - Bindings for DOM and HTML generated from WebIDL.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Windows
 
@@ -2982,7 +2982,7 @@ _Full stack web frameworks._
 - [go-ole](https://github.com/go-ole/go-ole) - Win32 OLE implementation for golang.
 - [gosddl](https://github.com/MonaxGT/gosddl) - Converter from SDDL-string to user-friendly JSON. SDDL consist of four part: Owner, Primary Group, DACL, SACL.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## XML
 
@@ -3041,7 +3041,7 @@ _Source code analysis tools, also known as Static Application Security Testing (
 - [vacuum](https://github.com/daveshanley/vacuum) - An ultra-super-fast, lightweight OpenAPI linter and quality checking tool.
 - [validate](https://github.com/mccoyst/validate) - Automatically validates struct fields with tags.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Editor Plugins
 
@@ -3064,7 +3064,7 @@ _Plugin for text editors and IDEs._
 - [vscode-go](https://github.com/golang/vscode-go) - Extension for Visual Studio Code (VS Code) which provides support for the Go language.
 - [Watch](https://github.com/eaburns/Watch) - Runs a command in an acme win on file changes.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Go Generate Tools
 
@@ -3083,7 +3083,7 @@ _Plugin for text editors and IDEs._
 - [TOML-to-Go](https://xuri.me/toml-to-go) - Translates TOML into a Go type in the browser instantly.
 - [xgen](https://github.com/xuri/xgen) - XSD (XML Schema Definition) parser and Go/C/Java/Rust/TypeScript code generator.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Go Tools
 
@@ -3109,13 +3109,13 @@ _Plugin for text editors and IDEs._
 - [textra](https://github.com/ravsii/textra) - Extract Go struct field names, types and tags for filtering and exporting.
 - [typex](https://github.com/dtgorski/typex) - Examine Go types and their transitive dependencies, alternatively export results as TypeScript value objects (or types) declaration.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Software Packages
 
 _Software written in Go._
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ### DevOps Tools
 
@@ -3206,7 +3206,7 @@ _Software written in Go._
 - [Wide](https://wide.b3log.org/login) - Web-based IDE for Teams using Golang.
 - [winrm-cli](https://github.com/masterzen/winrm-cli) - Cli tool to remotely execute commands on Windows machines.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ### Other Software
 
@@ -3280,13 +3280,13 @@ _Software written in Go._
 - [yai](https://github.com/ekkinox/yai) - AI powered terminal assistant.
 - [zs](https://git.mills.io/prologic/zs) - an extremely minimal static site generator.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 # Resources
 
 _Where to discover new Go libraries._
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Benchmarks
 
@@ -3305,7 +3305,7 @@ _Where to discover new Go libraries._
 - [skynet](https://github.com/atemerev/skynet) - Skynet 1M threads microbenchmark.
 - [speedtest-resize](https://github.com/fawick/speedtest-resize) - Compare various Image resize algorithms for the Go language.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Conferences
 
@@ -3325,7 +3325,7 @@ _Where to discover new Go libraries._
 - [GopherCon Vietnam](https://gophercon.vn/) - Ho Chi Minh City, Vietnam.
 - [GoWest Conference](https://www.gowestconf.com/) - Lehi, USA.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## E-Books
 
@@ -3367,7 +3367,7 @@ _Where to discover new Go libraries._
 - [The Golang Standard Library by Example (Chinese)](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
 - [Web Application with Go the Anti-Textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Gophers
 
@@ -3383,7 +3383,7 @@ _Where to discover new Go libraries._
 - [gophers](https://github.com/sillecelik/go-gopher) - Gopher amigurumi toy pattern.
 - [gophers](https://github.com/scraly/gophers) - Gophers by Aurélie Vache.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Meetups
 
@@ -3451,7 +3451,7 @@ _Where to discover new Go libraries._
 
 _Add the group of your city/country here (send **PR**)_
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Style Guides
 
@@ -3466,7 +3466,7 @@ _Add the group of your city/country here (send **PR**)_
 - [Trybe](https://github.com/betrybe/playbook-go/blob/main/README_EN.md)
 - [Uber](https://github.com/uber-go/guide/blob/master/style.md)
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Social Media
 
@@ -3479,13 +3479,13 @@ _Add the group of your city/country here (send **PR**)_
 - [@golangflow](https://twitter.com/golangflow)
 - [@golangweekly](https://twitter.com/golangweekly)
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ### Reddit
 
 - [r/golang](https://www.reddit.com/r/golang/)
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ## Websites
 
@@ -3527,7 +3527,7 @@ _Add the group of your city/country here (send **PR**)_
 - [Trending Go repositories on GitHub today](https://github.com/trending?l=go) - Good place to find new Go libraries.
 - [TutorialEdge - Golang](https://tutorialedge.net/course/golang/)
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ### Tutorials
 
@@ -3581,11 +3581,11 @@ _Add the group of your city/country here (send **PR**)_
 - [Working with Go](https://github.com/mkaz/working-with-go) - Intro to go for experienced programmers.
 - [Your basic Go](https://yourbasic.org/golang) - Huge collection of tutorials and how to's.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
 
 ### Guided Learning
 
 - [The Go Developer Roadmap](https://roadmap.sh/golang) - A visual roadmap that new Go developers can follow through to help them learn Go.
 - [The Go Learning Path](https://tutorialedge.net/paths/golang/) - A guided learning path containing a mix of free and premium resources.
 
-**[⬆ back to top](#contents)**
+**[⬆ 返回顶部](#目录)**
