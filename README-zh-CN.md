@@ -185,8 +185,8 @@ _操作音频文件的库_
 
 _Libraries for implementing authentication schemes._
 
-- [authboss](https://github.com/volatiletech/authboss) - Modular authentication system for the web. 供 Web 端使用的验证模块。 It tries to remove as much boilerplate and "hard things" as possible so that each time you start a new web project in Go, you can plug it in, configure it, and start building your app without having to build an authentication system each time. 每次用 Go 启动 Web 项目时，它会删除模板文件，这样你就可以嵌入并配置它，不用在每次构建应用程序时重新构建身份验证系统。
-- [branca](https://github.com/essentialkaos/branca) - branca 令牌 [specification implementation](https://github.com/tuupola/branca-spec) for Golang 1.15+.
+- [authboss](https://github.com/volatiletech/authboss) - 供 Web 端使用的验证模块。每次用 Go 启动 Web 项目时，它会尽可能地删除模板文件，这样你就可以嵌入并配置它，而不必在每次构建应用程序时都重新构建身份验证系统。
+- [branca](https://github.com/essentialkaos/branca) - branca 令牌 [详情请见](https://github.com/tuupola/branca-spec) 的 Golang 1.15+ 实现。
 - [casbin](https://github.com/hsluoyz/casbin) - Authorization library that supports access control models like ACL, RBAC, and ABAC.
 - [cookiestxt](https://github.com/mengzhuo/cookiestxt) - provides a parser of cookies.txt file format.
 - [go-guardian](https://github.com/shaj13/go-guardian) - Go-Guardian is a golang library that provides a simple, clean, and idiomatic way to create powerful modern API and web authentication that supports LDAP, Basic, Bearer token, and Certificate based authentication.
